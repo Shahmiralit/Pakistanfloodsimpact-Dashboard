@@ -22,7 +22,8 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Formats – .pbix (Power BI project file) for development, .png for visual previews and presentations.
 
-4. Data Source
+4. Data Source:
+   
 Source: NDMA (National Disaster Management Authority) Reports, Provincial Disaster Management Departments, and Pakistan Meteorological Department (PMD).
 
 Data Structure:
