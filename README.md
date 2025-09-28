@@ -24,7 +24,7 @@ The dashboard was built using the following tools and technologies:
 
 4. Data Source:
    
-Source: NDMA (National Disaster Management Authority) Reports, Provincial Disaster Management Departments, and Pakistan Meteorological Department (PMD).
+ NDMA (National Disaster Management Authority) Reports, Provincial Disaster Management Departments, and Pakistan Meteorological Department (PMD).
 
 Data Structure:
 District-Level Table: Includes number of affectees, fatalities, and damaged houses per district.
