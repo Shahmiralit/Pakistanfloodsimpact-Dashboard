@@ -13,21 +13,21 @@ This dashboard provides a clear, data-driven view of the devastating impact of f
 
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Primary platform for building and visualizing the report.
+
 • 📂 Power Query – Used to clean, transform, and reshape raw flood data.
+
 • 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as total fatalities, house damage percentage, and rainfall correlations.
+
 • 📝 Data Modeling – Established relationships between district, region, and rainfall tables to enable interactive filtering.
+
 • 📁 File Formats – .pbix (Power BI project file) for development, .png for visual previews and presentations.
 
 4. Data Source
-
 Source: NDMA (National Disaster Management Authority) Reports, Provincial Disaster Management Departments, and Pakistan Meteorological Department (PMD).
 
 Data Structure:
-
 District-Level Table: Includes number of affectees, fatalities, and damaged houses per district.
-
 Region Table: Groups districts under provinces/regions (Punjab, Sindh, KPK, GB).
-
 Rainfall Data: Contains mm/hr rainfall intensity per district to correlate with flood severity.
 
 5. Features / Highlights
